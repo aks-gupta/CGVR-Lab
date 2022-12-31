@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\CSE @ RV\VII SEM\CGVR\Codes\spin_cube\Source.cpp(126,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
-  spin_cube.vcxproj -> D:\CSE @ RV\VII SEM\CGVR\Codes\spin_cube\Debug\spin_cube.exe
