@@ -75,10 +75,8 @@ int main(int argc, char* argv[]) {
 		std::cin >> xc;
 		std::cout << "Enter yc : ";
 		std::cin >> yc;
-		std::cout << "Enter r : ";
+		std::cout << "Enter radius : ";
 		std::cin >> r;
-		//std::cout << "Enter y2 : ";
-		//std::cin >> yr;
 	}
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
