@@ -109,6 +109,8 @@ void cohensuther(double x0, double y0, double x1, double y1)
 
 void display()
 {
+	//120 10 40 130
+	//60 20 80 120
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1, 0, 0);
 	glBegin(GL_LINES);
